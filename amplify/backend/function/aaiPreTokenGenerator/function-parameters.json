@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "auth": {
+      "awsauthenticationins1096fb38": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
