@@ -10,6 +10,11 @@
       "StackName": "amplify-awsauthenticationins-dev-182249",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:693825121436:stack/amplify-awsauthenticationins-dev-182249/0aad4c70-8111-11ed-a86e-0a05ca365573",
       "AmplifyAppId": "d267o9owotnn2a"
+    },
+    "categories": {
+      "auth": {
+        "awsauthenticationins1096fb38": {}
+      }
     }
   }
 }

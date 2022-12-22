@@ -1,5 +1,14 @@
+import { Authenticator } from '@aws-amplify/ui-react'
+import Navigation from './Navigation'
+import ViewAuthState from './ViewAuthState'
+
 export default function App () {
   return (
-    <div>App</div>
+    <>
+      <Authenticator>
+        <Navigation />
+        <ViewAuthState />
+      </Authenticator>
+    </>
   )
 }
